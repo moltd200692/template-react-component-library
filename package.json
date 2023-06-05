@@ -27,5 +27,5 @@
   "types": "dist/index.d.ts",
   "publishConfig": {
     "provenance": true
-  },
+  }
 }
