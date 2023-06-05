@@ -3,9 +3,6 @@ on: push
 jobs:
  build:
    runs-on: ubuntu-latest
-   permissions:
-     contents: read
-     id-token: write
    steps:
      - name: checkout
        uses: actions/checkout@v3
