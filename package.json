@@ -1,6 +1,6 @@
 {
-  "name": "template-react-component-library",
-  "version": "0.0.1",
+  "name": "@moltd200692/template-react-component-library",
+  "version": "0.0.2",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -25,7 +25,12 @@
     "dist"
   ],
   "types": "dist/index.d.ts",
-  "publishConfig": {
-    "provenance": true
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moltd200692/template-react-component-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moltd200692/template-react-component-library/issues"
+  },
+  "homepage": "https://github.com/moltd200692/template-react-component-library#readme"
 }
